@@ -8,6 +8,6 @@ end
 target 'SynchronizedArray_Tests', :exclusive => true do
   pod 'SynchronizedArray', :path => '../'
 
-  pod 'Quick', '~> 0.8'
-  pod 'Nimble', '~> 3.0'
+  pod 'Quick', '~> 0.9'
+  pod 'Nimble', '~> 3.2'
 end

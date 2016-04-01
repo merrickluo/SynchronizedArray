@@ -1,0 +1,20 @@
+PODS:
+  - Nimble (3.2.0)
+  - Quick (0.9.1)
+  - SynchronizedArray (0.1.1)
+
+DEPENDENCIES:
+  - Nimble (~> 3.2)
+  - Quick (~> 0.9)
+  - SynchronizedArray (from `../`)
+
+EXTERNAL SOURCES:
+  SynchronizedArray:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  Quick: a5221fc21788b6aeda934805e68b061839bc3165
+  SynchronizedArray: 09b286afcf5b60a5e60589b2cc767537f609a7ae
+
+COCOAPODS: 0.39.0

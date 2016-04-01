@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "SynchronizedArray"
-  s.version          = "0.1.0"
+  s.version          = "0.1.3"
   s.summary          = "A short description of SynchronizedArray."
 
 # This description is used to generate tags and improve search results.
@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/SynchronizedArray"
+  s.homepage         = "https://github.com/merrickluo/SynchronizedArray"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Messiah" => "luoyongmao@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/SynchronizedArray.git", :tag => s.version.to_s }
+  s.author           = { "Merrick" => "merrick@luois.me" }
+  s.source           = { :git => "https://github.com/merrickluo/SynchronizedArray.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'
