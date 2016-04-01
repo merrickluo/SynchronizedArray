@@ -22,7 +22,7 @@ pod "SynchronizedArray"
 
 ## Author
 
-Messiah, luoyongmao@gmail.com
+A.I., merrick@luois.me
 
 ## License
 
